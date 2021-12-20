@@ -12,14 +12,16 @@ Run `expo start` to run the app
 ## Screenshots
 Transactions Page
 
-![Transactions](assets/screenshots/Transactions.jpeg)
+<img src="assets/screenshots/Transactions.jpeg" width="250" height="500">
+
 
 Add Amount
 
-![add](assets/screenshots/AddAmount.jpeg)
+<img src="assets/screenshots/AddAmount.jpeg" width="250" height="500">
 
-![dropdown](assets/screenshots/dropdown.jpeg)
+<img src="assets/screenshots/dropdown.jpeg" width="250" height="500">
 
 Statistics
 
-![statistics](assets/screenshots/statistics.jpeg)
+<img src="assets/screenshots/statistics.jpeg" width="250" height="500">
+
